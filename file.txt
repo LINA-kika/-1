@@ -1,0 +1,31 @@
+{
+	"pokemons": [
+		{
+			"name": FIRST
+			"hp": 2
+			"attack": 2
+			"defense": 2
+			"speed": 2
+			"power": 2
+			"defence": 2
+		},
+		{
+			"name": Second
+			"hp": 1
+			"attack": 1
+			"defense": 1
+			"speed": 1
+			"power": 1
+			"defence": 1
+		},
+		{
+			"name": Example
+			"hp": 50
+			"attack": 50
+			"defense": 50
+			"speed": 50
+			"power": 5
+			"defence": 5
+		}
+	]
+}
